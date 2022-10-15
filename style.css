@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&display=swap');
 
 body, html {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
     font-size: 100%;
     margin: 0;
     padding: 0;
@@ -15,7 +15,7 @@ body, html {
 a {
     text-decoration: none;
     color: inherit;
-    margin: 0 8px;
+    margin: 0px;
     padding: 15px;
 
 }
@@ -125,6 +125,7 @@ main{
 
 footer {
     background-color: #f2f2f2;
+    
 }
 
 .pais{
@@ -140,8 +141,8 @@ footer {
     align-items: center;
     height: 46px;
     font-size: 14px;
-    
 }
+
 
 @media (max-width: 60rem) {
     .links{
